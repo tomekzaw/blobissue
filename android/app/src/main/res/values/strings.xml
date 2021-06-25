@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">blobissue</string>
+    <string name="blob_provider_authority">com.blobissue.blobs</string>
 </resources>
